@@ -253,6 +253,7 @@ See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the 
 
 ## Todo
 
+-   [ ] Add Examples screenshot/gif
 -   [ ] Nested queries support
 -   [ ] Platform based media queries
 
