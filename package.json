@@ -35,8 +35,11 @@
 		"react-native",
 		"ios",
 		"android",
-		"responsive ui",
-		"stylesheet"
+		"responsive",
+		"stylesheet",
+		"CSS",
+		"styles",
+		"design"
 	],
 	"repository": "https://github.com/darshan09200/react-native-css-stylesheet",
 	"author": "Darshan Jain <projects.darshan09200@gmail.com> (https://github.com/darshan09200)",
