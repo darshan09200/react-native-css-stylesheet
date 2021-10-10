@@ -1,6 +1,6 @@
 {
 	"name": "react-native-css-stylesheet",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Create responsive design with the help of css queries",
 	"main": "lib/commonjs/index",
 	"module": "lib/module/index",
